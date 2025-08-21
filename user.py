@@ -1,1 +1,2 @@
 ;lkerjlkejrhfwerkfbefjb
+print("hello world")
